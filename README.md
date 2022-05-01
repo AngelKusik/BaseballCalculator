@@ -1,5 +1,5 @@
 
-h1 align="center">Hi 👋, I'm Angelica, a Computer Programming Student at Durham College</h1>
+<h1 align="center">Hi 👋, I'm Angelica, a Computer Programming Student at Durham College</h1>
 <h3 align="center">Working to become a web developer. Superhero enthusiast. I ♥ wine, gardening and the Foo Fighters.</h3>
 
 - 🔭 I’m currently working on [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp)
